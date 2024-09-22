@@ -70,7 +70,7 @@ let startGame = async () => {
   });
 
   if (dexieId) {
-    router.push(`/jogo/${dexieId}`)
+    router.push(`/games/${dexieId}`)
   }
 };
 </script>
