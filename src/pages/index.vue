@@ -1,7 +1,7 @@
 <template>
   <DefaultLayout>
     <v-container class="mt-5 text-center">
-      <h1>Bem-vindo ao Bingo!</h1>
+      <h1>Welcome to Bingo!</h1>
       <v-row class="mt-4" justify="center">
         <v-col cols="12" md="4">
           <v-btn class="mx-auto d-block" color="primary" @click="goToNewGame" width="100%">
