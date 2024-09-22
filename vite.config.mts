@@ -33,8 +33,7 @@ export default defineConfig({
           styles: 'wght@100;300;400;500;700;900',
         }],
       },
-    }),
-    VitePWA({ registerType: 'autoUpdate' })
+    })
   ],
   define: { 'process.env': {} },
   resolve: {
