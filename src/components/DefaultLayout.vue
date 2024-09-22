@@ -3,7 +3,7 @@
         <v-app-bar color="surface-variant" app>
             <v-toolbar-title>
                 <RouterLink to="/">
-                    <v-btn text color="#FFF">BINGO!</v-btn>
+                    <v-btn color="#FFF">BINGO!</v-btn>
                 </RouterLink>
             </v-toolbar-title>
 
